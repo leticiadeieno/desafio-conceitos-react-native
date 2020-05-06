@@ -29,6 +29,8 @@ O desafio foi desenvolvido utilizando as seguintes tecnologias:
 
 ---
 
+## 👨‍💻 Como Baixar o Projeto
+
 ```bash
 
 # clonar projeto
